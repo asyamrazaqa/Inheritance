@@ -143,7 +143,7 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
             }
             public void VtecKickedIn()
             {
-                Console.WriteLine("BRRRRMMMMMMMM NNGGGEEENGGG WWWWOOOOSSSHHH!!!!");
+                Console.WriteLine("Ngeeeng Wooosh!!");
             }
         }
 /// <summary>
