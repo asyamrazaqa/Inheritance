@@ -14,7 +14,8 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
 
             public void MerkBanTampil(string merk)
             {
-                Console.WriteLine("Mobil ini menggunakan ban " + merk);
+                this.merk = merk;
+                Console.WriteLine("Mobil ini menggunakan ban: " + merk);
             }
         }
         class Michelin : Ban
@@ -43,16 +44,16 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
             public string tipe;
             public Ban ban;
 
-            public void MesinMenyala()
+            public void NyalakanMesin()
             {
                 System.Console.WriteLine("Mobil bermesin " + merk + " dengan tipe " + tipe + " menyala");
             }
-            public void MesinMati()
+            public void MatikanMesin()
             {
                 System.Console.WriteLine("Mobil bermesin " + merk + " dengan tipe " + tipe + " mati");
             }
 
-            public void LampuMenyala()
+            public void NyalakanLampu()
             {
                 Console.WriteLine("Merk lampu mobil " + merk + " dengan tipe " + tipe + " menyala");
             }
@@ -104,7 +105,7 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
             {
                 tipe = "Avanza";
             }
-            public void LampuMenyala()
+            public void NyalakanLampu()
             {
                 Console.WriteLine("Merk lampu mobil " + merk + " dengan tipe " + tipe + " menyala");
             }
@@ -154,13 +155,13 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
                 // Pada variabel mobil1 dengan objek Agya yang menggunakan ban Michelin
                 Mobil mobil1 = new Agya();
                 mobil1.ban = new Michelin();
-                mobil1.MesinMenyala();
-                mobil1.MesinMati();
+                mobil1.NyalakanMesin();
+                mobil1.MatikanMesin();
 
                 // Pada variabel mobil2 dengan objek Avanza yang menggunakan ban Bridgestone
                 Avanza mobil2 = new Avanza();
                 mobil2.ban = new Bridgestone();
-                mobil2.LampuMenyala();
+                mobil2.NyalakanLampu();
 
                 // Pada variabel civic1 dengan objek Civic yang menggunakan ban Bridgestone
                 Civic civic1 = new Civic();
