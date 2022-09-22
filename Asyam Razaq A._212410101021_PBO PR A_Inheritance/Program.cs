@@ -34,7 +34,9 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
 
             }
         }
-
+/// <summary>
+/// 
+/// </summary>
         class Mobil
         {
             public string merk;
@@ -55,7 +57,6 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
                 Console.WriteLine("Merk lampu mobil " + merk + " dengan tipe " + tipe + " menyala");
             }
         }
-
         class Toyota : Mobil
         {
             public Toyota()
@@ -144,6 +145,10 @@ namespace Asyam_Razaq_A._212410101021_PBO_PR_A_Inheritance
                 Console.WriteLine("BRRRRMMMMMMMM NNGGGEEENGGG WWWWOOOOSSSHHH!!!!");
             }
         }
+/// <summary>
+/// 
+/// </summary>
+/// <param name="args"></param>
             static void Main(string[] args)
         {
                 // Pada variabel mobil1 dengan objek Agya yang menggunakan ban Michelin
