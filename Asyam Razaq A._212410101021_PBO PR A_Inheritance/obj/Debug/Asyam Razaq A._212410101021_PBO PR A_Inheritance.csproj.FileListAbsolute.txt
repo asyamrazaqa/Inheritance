@@ -1,0 +1,8 @@
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\obj\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.csproj.AssemblyReference.cache
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\obj\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.csproj.SuggestedBindingRedirects.cache
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\obj\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.csproj.CoreCompileInputs.cache
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\bin\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.exe.config
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\bin\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.exe
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\bin\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.pdb
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\obj\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.exe
+D:\software kuliah\codeku\Asyam Razaq A._212410101021_PBO PR A_Inheritance\Asyam Razaq A._212410101021_PBO PR A_Inheritance\obj\Debug\Asyam Razaq A._212410101021_PBO PR A_Inheritance.pdb
